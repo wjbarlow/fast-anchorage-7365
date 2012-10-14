@@ -2,5 +2,5 @@ require 'sinatra'
 
 get '/' do
   "Hello, Rikkus"
-  put "Helloooo"
+   2+6
 end
