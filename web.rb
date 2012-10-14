@@ -1,6 +1,5 @@
 require 'sinatra'
 
 get '/' do
-   t = "Helloooo Variable World"
-   print t
+"Hello Mr Rik"
 end
