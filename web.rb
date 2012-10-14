@@ -1,6 +1,6 @@
 require 'sinatra'
 
 get '/' do
-  "Hello, Rikkus"
-   "2+6"
+   t = "Helloooo Variable World"
+   print t
 end
