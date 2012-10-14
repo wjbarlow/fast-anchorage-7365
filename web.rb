@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get '/' do
-"Hello Mr Rik"
+5.times {print "Hello! "}
 end
